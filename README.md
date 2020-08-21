@@ -1,2 +1,2 @@
 # MultiplayerGameDev
-Intro to multiplayer games. 
+Intro to multiplayer games using node JS and web sockets (SocketIO)
